@@ -1,4 +1,4 @@
-# 🐍 Python: Zero to Ultra Advanced (Day-wise)
+# 🐍 Python: Zero to Advanced (Day-wise)
 
 A complete **day-by-day** Python course. It starts with **your very first `print()`** and goes all the way to **metaclasses, asyncio internals, import hooks, AST and CPython internals**, then finishes with **48 real projects**.
 
